@@ -1,0 +1,3 @@
+/Users/nirav/Desktop/COMP1000/GLLprac/cmake-build-debug/CMakeFiles/GLLprac.dir
+/Users/nirav/Desktop/COMP1000/GLLprac/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nirav/Desktop/COMP1000/GLLprac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
